@@ -1,0 +1,101 @@
+Date,Description,Debit,Credit,Balance
+2025-01-01,Coffee Shop,38.07,,961.93
+2025-01-02,Online Transfer to Savings,383.09,,578.84
+2025-01-03,Online Transfer to Savings,273.34,,305.5
+2025-01-04,Grocery Store,182.16,,123.34
+2025-01-05,Online Transfer to Savings,613.83,,-490.49
+2025-01-06,Petrol,571.52,,-1062.01
+2025-01-07,Amazon Purchase,788.32,,-1850.33
+2025-01-08,Salary Bonus,,3854.12,2003.79
+2025-01-09,Netflix Subscription,435.67,,1568.12
+2025-01-10,Book Purchase,483.13,,1084.99
+2025-01-11,Flight Ticket,410.76,,674.23
+2025-01-12,Gym Membership,177.9,,496.33
+2025-01-13,Book Purchase,95.2,,401.13
+2025-01-14,Medical Bill,581.54,,-180.41
+2025-01-15,Salary,,1418.22,1237.81
+2025-01-16,Salary,,2235.07,3472.88
+2025-01-17,Mobile Recharge,428.81,,3044.07
+2025-01-18,Book Purchase,785.09,,2258.98
+2025-01-19,ATM Withdrawal,630.58,,1628.4
+2025-01-20,Salary Bonus,,2183.3,3811.7
+2025-01-21,Mobile Recharge,68.42,,3743.28
+2025-01-22,Hotel Booking,180.83,,3562.45
+2025-01-23,Received from John,,1406.93,4969.38
+2025-01-24,Grocery Store,430.37,,4539.01
+2025-01-25,Insurance Premium,168.88,,4370.13
+2025-01-26,Interest Credit,,447.81,4817.94
+2025-01-27,Insurance Premium,224.63,,4593.31
+2025-01-28,Electricity Bill,112.2,,4481.11
+2025-01-29,Received from John,,1755.57,6236.68
+2025-01-30,Salary,,3894.06,10130.74
+2025-01-31,Book Purchase,661.42,,9469.32
+2025-02-01,Netflix Subscription,400.49,,9068.83
+2025-02-02,Hotel Booking,27.03,,9041.8
+2025-02-03,Insurance Premium,86.31,,8955.49
+2025-02-04,Gym Membership,326.71,,8628.78
+2025-02-05,Insurance Premium,436.49,,8192.29
+2025-02-06,Gym Membership,511.48,,7680.81
+2025-02-07,Medical Bill,299.29,,7381.52
+2025-02-08,Restaurant,262.37,,7119.15
+2025-02-09,Flight Ticket,367.81,,6751.34
+2025-02-10,Received from John,,4042.79,10794.13
+2025-02-11,Mobile Recharge,734.92,,10059.21
+2025-02-12,Grocery Store,172.73,,9886.48
+2025-02-13,Amazon Purchase,829.88,,9056.6
+2025-02-14,Petrol,648.29,,8408.31
+2025-02-15,Insurance Premium,638.37,,7769.94
+2025-02-16,Coffee Shop,245.45,,7524.49
+2025-02-17,Hotel Booking,663.07,,6861.42
+2025-02-18,ATM Withdrawal,360.7,,6500.72
+2025-02-19,Electricity Bill,889.3,,5611.42
+2025-02-20,Gym Membership,157.2,,5454.22
+2025-02-21,Grocery Store,880.74,,4573.48
+2025-02-22,Restaurant,703.87,,3869.61
+2025-02-23,Electricity Bill,550.32,,3319.29
+2025-02-24,Hotel Booking,832.24,,2487.05
+2025-02-25,Received from John,,2249.87,4736.92
+2025-02-26,Restaurant,879.43,,3857.49
+2025-02-27,Amazon Purchase,775.85,,3081.64
+2025-02-28,Amazon Purchase,467.16,,2614.48
+2025-03-01,Salary Bonus,,1205.31,3819.79
+2025-03-02,Mobile Recharge,71.09,,3748.7
+2025-03-03,Petrol,814.56,,2934.14
+2025-03-04,Interest Credit,,3392.1,6326.24
+2025-03-05,Mobile Recharge,256.74,,6069.5
+2025-03-06,Grocery Store,496.82,,5572.68
+2025-03-07,Gym Membership,208.71,,5363.97
+2025-03-08,Salary Bonus,,591.48,5955.45
+2025-03-09,Interest Credit,,3313.97,9269.42
+2025-03-10,Electricity Bill,375.17,,8894.25
+2025-03-11,Petrol,60.57,,8833.68
+2025-03-12,Online Transfer to Savings,317.01,,8516.67
+2025-03-13,Salary Bonus,,2393.24,10909.91
+2025-03-14,Coffee Shop,907.85,,10002.06
+2025-03-15,Insurance Premium,111.27,,9890.79
+2025-03-16,Medical Bill,529.86,,9360.93
+2025-03-17,Amazon Purchase,255.58,,9105.35
+2025-03-18,Coffee Shop,921.06,,8184.29
+2025-03-19,Received from John,,1711.49,9895.78
+2025-03-20,Grocery Store,15.88,,9879.9
+2025-03-21,Petrol,532.57,,9347.33
+2025-03-22,Amazon Purchase,295.5,,9051.83
+2025-03-23,Medical Bill,240.26,,8811.57
+2025-03-24,Salary Bonus,,4306.28,13117.85
+2025-03-25,Mobile Recharge,540.34,,12577.51
+2025-03-26,Netflix Subscription,920.66,,11656.85
+2025-03-27,Salary,,3244.02,14900.87
+2025-03-28,Mobile Recharge,278.28,,14622.59
+2025-03-29,Online Transfer to Savings,436.68,,14185.91
+2025-03-30,Mobile Recharge,27.98,,14157.93
+2025-03-31,Flight Ticket,664.53,,13493.4
+2025-04-01,Online Transfer to Savings,372.64,,13120.76
+2025-04-02,Flight Ticket,761.53,,12359.23
+2025-04-03,Mobile Recharge,72.87,,12286.36
+2025-04-04,Hotel Booking,962.69,,11323.67
+2025-04-05,Flight Ticket,519.8,,10803.87
+2025-04-06,Hotel Booking,768.91,,10034.96
+2025-04-07,ATM Withdrawal,783.69,,9251.27
+2025-04-08,Grocery Store,29.02,,9222.25
+2025-04-09,Electricity Bill,67.22,,9155.03
+2025-04-10,Salary,,3635.72,12790.75
