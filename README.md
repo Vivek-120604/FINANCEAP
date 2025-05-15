@@ -1,4 +1,5 @@
 FINANCEAPP
+
 A personal finance tracker and expense management application built with Streamlit,pandas,plotly that helps you monitor your spending, categorize expenses, and gain insights into your financial habits.
 It's designed to help individuals gain better control over their finances by providing clear insights into spending patterns.
 
